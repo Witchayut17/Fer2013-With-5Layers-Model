@@ -1,1 +1,1 @@
-Got Around ~67.3%
+This project presents a machine learning–based spam email detection system using classical Natural Language Processing techniques. The system applies Term Frequency–Inverse Document Frequency (TF-IDF) for text feature extraction and Logistic Regression for binary classification. By addressing class imbalance through weighted loss adjustment and decision threshold optimization, the proposed approach achieves effective spam detection performance while maintaining computational efficiency.
